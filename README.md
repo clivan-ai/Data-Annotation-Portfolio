@@ -47,7 +47,7 @@ Experienced AI Data Annotation Specialist with 6+ years of hands-on experience i
 
 **Toloka**
 - Executed diverse data annotation and validation tasks
-- Supported model training through high-quality labeled datasets
+- Supported model training through high quality labeled datasets
 
 ## Availability
 - Availability: 40+ hours per week
@@ -55,4 +55,4 @@ Experienced AI Data Annotation Specialist with 6+ years of hands-on experience i
 - Location: Nairobi, Kenya
 
 ## NDA Disclaimer
-Due to non-disclosure agreements (NDAs), specific datasets, visuals, and client details cannot be shared publicly. The information provided here represents a high-level summary of my experience and capabilities.
+Due to non disclosure agreements (NDAs), specific datasets, visuals, and client details cannot be shared publicly. The information provided here represents a high level summary of my experience and capabilities.
