@@ -1,7 +1,7 @@
 # Data Annotation Portfolio
 
 ## Professional Summary
-Experienced AI Data Annotation Specialist with 6+ years of hands-on experience in 2D, 3D, and LiDAR-based annotation projects. Specialized in autonomous vehicle, robotics, and computer vision datasets, delivering high-quality, guideline-compliant annotations across large-scale production environments.
+Experienced AI Data Annotation Specialist with 6+ years of hands on experience in 2D, 3D, and LiDAR based annotation projects. Specialized in autonomous vehicle, robotics, and computer vision datasets, delivering high quality, guideline compliant annotations across large scale production environments.
 
 ## Domains of Experience
 - Autonomous Vehicles (AV)
